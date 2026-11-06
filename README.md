@@ -148,9 +148,3 @@ Se o arquivo já existir, um sufixo numérico é adicionado: `tiktok_123_2.mp4`,
 
 Este projeto é de uso livre. Use por sua conta e risco.
 
----
-
-<p align="center">
-  Feito com ❤️ por <a href="https://github.com/1gustfrance">@1gustfrance</a>
-</p>
-
