@@ -114,18 +114,6 @@ python baixar_tiktok.py "https://www.instagram.com/p/ABC123/"
   🧹 Metadados removidos
 ```
 
-## 🍪 Instagram — Autenticação (posts privados)
-
-Para posts públicos, o script funciona sem login. Para **posts privados**, você precisa fornecer seus cookies:
-
-1. Instale a extensão [**Get cookies.txt LOCALLY**](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) no Chrome/Edge
-2. Acesse [instagram.com](https://www.instagram.com) e faça login
-3. Clique na extensão → **Export**
-4. Salve o arquivo como `cookies.txt` **na mesma pasta** do script
-5. Execute o script normalmente — ele detecta e usa o arquivo automaticamente
-
-> ⚠️ **Nunca compartilhe seu `cookies.txt`** — ele contém sua sessão do Instagram.
-
 ## 📋 Nomes dos arquivos
 
 Os vídeos são salvos com nomes únicos baseados na plataforma e ID:
